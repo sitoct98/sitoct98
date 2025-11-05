@@ -39,13 +39,6 @@ Disfruto trabajar en proyectos donde puedo aportar tanto en lo técnico como en 
 
 ### 📫 Conecta conmigo
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/sergioalcarazmateos" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-</div>
+[LinkedIn](https://www.linkedin.com/in/sergioalcarazmateos)
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sitoct98/sitoct98/output/snake.svg" alt="snake animation" />
 
