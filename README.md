@@ -1,5 +1,5 @@
 <div align="left">
-  <img height="120" src="https://raw.githubusercontent.com/sitoct98/sitoct98/main/SuperSergioProg.png" alt="Profile image"/>
+  <img height="250" src="https://raw.githubusercontent.com/sitoct98/sitoct98/main/SuperSergioProg.png" alt="Profile image"/>
 </div>
 
 ## ¡Hola! Soy Sergio 👋
