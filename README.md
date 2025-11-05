@@ -1,3 +1,7 @@
+<div align="left">
+  <img height="120" src="https://raw.githubusercontent.com/sitoct98/sitoct98/main/SuperSergioProg.png" alt="Profile image"/>
+</div>
+
 ## ¡Hola! Soy Sergio 👋
 
 Programador de Aplicaciones Multiplataforma con experiencia en **Java**, **Kotlin (Android)** y **C# con WPF**.  
