@@ -1,16 +1,31 @@
-## Hi there 👋
+# ¡Hola! Soy Sergio 👋
 
-<!--
-**sitoct98/sitoct98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programador de Aplicaciones Multiplataforma, con experiencia en desarrollo de software utilizando **Java**, **Kotlin (Android)** y **C# con WPF**. Me interesa crear soluciones funcionales, bien estructuradas y fáciles de mantener. Siempre busco aprender nuevas tecnologías y mejorar mi forma de trabajar.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tecnologías con las que trabajo
+
+| Lenguajes | Entornos / Frameworks | Herramientas |
+|----------|-----------------------|--------------|
+| Java · Kotlin · C# | Android · WPF · .NET | Git · GitHub · SQL |
+
+---
+
+### 🚀 Lo que me define
+- Aprendizaje constante y curiosidad tecnológica
+- Capacidad para trabajar en equipo y adaptarme a nuevos entornos
+- Creatividad y enfoque orientado a resultados
+- Interés en construir software real que aporte valor
+
+---
+
+### 📌 Actualmente
+- Mejorando mis habilidades en desarrollo y buenas prácticas
+- Trabajando en proyectos personales para fortalecer mi portafolio
+- Buscando oportunidades de desarrollo y crecimiento profesional
+
+---
+
+### 📫 Conecta conmigo
+[LinkedIn](https://www.linkedin.com/in/sergioalcarazmateos)
