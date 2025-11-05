@@ -1,14 +1,16 @@
-<div align="left">
-  <!-- Aquí puedes poner tu imagen caricaturizada cuando la subas -->
-  <img height="150" src="https://gyazo.com/9cacae67ea79bc91ea3c7bd6b36d30b1" />
-</div>
-
 ## ¡Hola! Soy Sergio 👋
 
 Programador de Aplicaciones Multiplataforma con experiencia en **Java**, **Kotlin (Android)** y **C# con WPF**.  
 Me enfoco en desarrollar software claro, mantenible y bien estructurado, aplicando buenas prácticas y aprendiendo de forma continua.
 
 Disfruto trabajar en proyectos donde puedo aportar tanto en lo técnico como en lo creativo, buscando siempre soluciones simples y eficientes.
+
+---
+
+### 📌 Actualmente
+- Mejorando mis habilidades en desarrollo y buenas prácticas
+- Trabajando en proyectos personales para fortalecer mi portafolio
+- Buscando oportunidades de desarrollo y crecimiento profesional
 
 ---
 
@@ -30,7 +32,7 @@ Disfruto trabajar en proyectos donde puedo aportar tanto en lo técnico como en 
 
 ### 📈 Estadísticas
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sitoct98&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sitoct98&layout=compact&theme=dracula&hide_border=false&langs_count=5" height="150" />
 </div>
@@ -42,5 +44,13 @@ Disfruto trabajar en proyectos donde puedo aportar tanto en lo técnico como en 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/sitoct98/sitoct98/output/snake.svg" alt="Snake animation" />
+
+###
 
 
